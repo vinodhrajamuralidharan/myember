@@ -1,0 +1,10 @@
+{
+ 
+  "directory": "bower_components",
+  "analytics": false,
+  "registry": "http://bower.herokuapp.com",
+  "proxy":  "http://402885:Sokkalingam1!@proxy.cognizant.com:6050",
+  "https-proxy": "http://402885:Sokkalingam1!@proxy.cognizant.com:6050",
+  "strict-ssl": false
+
+}
